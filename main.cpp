@@ -51,7 +51,6 @@ int main()
 
 	// different change on this line
 	// different change on this line
-
     return 0;
 }
 
